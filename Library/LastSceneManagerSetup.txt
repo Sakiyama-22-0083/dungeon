@@ -1,5 +1,0 @@
-sceneSetups:
-- path: Assets/3DGamekit/Scenes/_TemplateScene.unity
-  isLoaded: 1
-  isActive: 1
-  isSubScene: 0
